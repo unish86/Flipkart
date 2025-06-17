@@ -1,0 +1,9 @@
+.product:hover img{
+    transform: scale(1.05);
+}
+.myrow{
+    background-color: #F4F4F4;
+}
+.myfont{
+    font-size:12px;
+}
